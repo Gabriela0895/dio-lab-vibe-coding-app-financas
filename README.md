@@ -36,7 +36,7 @@ Gerar um plano de MVP com as principais telas, recursos necessários e validaç�
 
 ### Acesso ao portfólio:
 
-https://botz-money-whisperer.lovable.app
+[https://botz-money-whisperer.lovable.app](https://botz-financas.lovable.app)
 
 <img width="387" height="863" alt="Captura de tela 2026-10-21 003507" src="https://github.com/user-attachments/assets/74e17fe5-3136-4074-aedd-622edf154cef" />
 
